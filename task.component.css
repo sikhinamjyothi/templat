@@ -63,17 +63,6 @@ h6 {
   font-weight: lighter;
 }
 
-h2 {
-  color: white;
-  font-family: sans-serif;
-  font-weight: lighter;
-}
-
-.main {
-  color: rgb(109, 234, 157);
-  font-family: sans-serif;
-}
-
 .thin {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
@@ -89,3 +78,4 @@ h2 {
   display: inline-block;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
